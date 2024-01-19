@@ -1,1 +1,1 @@
-stack and queue implementation with function
+stack and queue implementation with functions 
